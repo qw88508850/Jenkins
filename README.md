@@ -1,4 +1,4 @@
-# MyFirstTest
+# Jenkins 
 
-Using this project as a start up git project
-1, test jenkins
+## Jenkins通过Webhook插件来触发SCM(GitHub)脚本提交更改后的自动构建
+
